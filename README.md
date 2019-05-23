@@ -75,7 +75,12 @@ There will be 2 deliverables for this project:
 
 1. A well documented **Jupyter Notebook** containing any code you've written for this project and comments explaining it. This work will need to be pushed to your GitHub repository in order to submit your project.   
 
-2. A short **Keynote/PowerPoint/Google Slides presentation** (delivered as a PDF export) that gives a brief overview of your problem/dataset, and each step of the CRISP-DM process. 
+2. An executive **Keynote/PowerPoint/Google Slides presentation** (delivered as a PDF export) that explains the business problem you are solving, your findings, and their relevance to the company/stakeholders.
+    + Contain between 5-10 professional quality slides detailing:
+        + A high-level overview of your business problem, methodology and data source;
+        + Any real-world recommendations you would like to make based on your findings (ask yourself--why should the executive team care about what you found? How can your findings help the company/stakeholder?);
+        + Take no more than 10 minutes to present; and
+        + Avoid technical jargon and explain results in a clear, actionable way for non-technical audiences.
     + Make sure to also add and commit this pdf of your non-technical presentation to your repository with a file name of `presentation.pdf`.
 
 
