@@ -17,7 +17,7 @@ In this lesson, we'll review all the guidelines and specifications for the final
 
 Congratulations! You've made it through another _intense_ module, and now you're ready to show off your newfound Machine Learning skills!
 
-<img src='https://raw.githubusercontent.com/learn-co-curriculum/dsc-3-final-project/master/smart.gif'>
+<img src='https://raw.githubusercontent.com/cenuno/dsc-3-final-project/master/smart.gif'>
 
 All that remains for Module 3 is to complete the final project!
 
@@ -45,10 +45,10 @@ To help you select an appropriate data set for this project, we've set some guid
 
 When selecting a data set, be sure to take into consideration the following constraints:
 
-1. Your data set can't be one we've already worked with in any labs. 
+1. Your data set can't be one we've already worked with in the previous two projects. 
 2. Your data set should contain a minimum of 1000 rows.    
 3. Your data set should contain a minimum of 10 predictor columns, before any one-hot encoding is performed.   
-4. Your instructor must provide final approval on your data set. 
+4. Your instructor must provide final approval on your data set.
 
 ### Problem First, or Data First?
 
@@ -60,24 +60,23 @@ There are two ways that you can about getting started: **_Problem-First_** or **
 
 There are plenty of amazing places that you can get your data from. We recommend you start looking at data sets in some of these resources first:
 
-* [UCI Machine Learning Datasets Repository](https://archive.ics.uci.edu/ml/datasets.html)
+* [UCI Machine Learning Datasets Repository](https://archive.ics.uci.edu/ml/datasets.php)
 * [Kaggle Datasets](https://www.kaggle.com/datasets)
 * [Awesome Datasets Repo on Github](https://github.com/awesomedata/awesome-public-datasets)
 * [New York City Open Data Portal](https://opendata.cityofnewyork.us/)
+* [Seattle Open Data Portal](https://data.seattle.gov/)
+* [Chicago Open Data Portal](https://data.cityofchicago.org/)
 * [Inside AirBNB ](http://insideairbnb.com/)
 
 
 ## The Deliverables
 
-There will be four deliverables for this project:
+There will be 2 deliverables for this project:
 
 1. A well documented **Jupyter Notebook** containing any code you've written for this project and comments explaining it. This work will need to be pushed to your GitHub repository in order to submit your project.   
 
-2. A short **Keynote/PowerPoint/Google Slides presentation** (delivered as a PDF export) that gives a brief overview of your problem/dataset, and each step of the OSEMN process. Make sure to also add and commit this pdf of your non-technical presentation to your repository with a file name of presentation.pdf.
-
-3. A **blog post** (800-1500 words) about one element of the project - it could be the EDA, the feature selection, the choice of visualizations or anything else technical relating to the project. It should be targeted at your peers - aspiring data scientists.  
-
-4. A **Video Walkthrough** of your non-technical presentation. Some common video recording tools used are Zoom, Quicktime, and Nimbus. After you record your presentation, publish it on a service like YouTube or Google Drive, you will need a link to the video to submit your project.
+2. A short **Keynote/PowerPoint/Google Slides presentation** (delivered as a PDF export) that gives a brief overview of your problem/dataset, and each step of the CRISP-DM process. 
+    + Make sure to also add and commit this pdf of your non-technical presentation to your repository with a file name of `presentation.pdf`.
 
 
 ### Jupyter Notebook Must-Haves
@@ -93,25 +92,13 @@ For this project, your jupyter notebook should meet the following specifications
 **_Process, Methodology, and Findings_**
 
 * Your notebook should contain a clear record of your process and methodology for exploring and preprocessing your data, building and tuning a model, and interpreting your results.
-* We recommend you use the OSEMN process to help organize your thoughts and stay on track.
+* We recommend you use the [CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining) process to help organize your thoughts and stay on track.
 
-
-### Blog Post Must-Haves
-
-Your blog post should clearly explain your process and results, including:
-* An explanation of the problem you're trying to solve and the dataset you choose for it
-* Well documented examples of code and visualizations (when appropriate)
-
-
-**_NOTE:_**  This blog post is your way of showcasing the work you've done on this project--chances are it will soon be read by a recruiter or hiring manager! Take the time to make sure that you craft your story well, and clearly explain your process and findings in a way that clearly shows both your technical expertise **_and_** your ability to communicate your results!
 
 ## Submitting your Project
 
 You’re almost done! In order to submit your project for review, include the following links to your work in the corresponding fields on the right-hand side of Learn.
 
 1. **GitHub Repo:** Now that you’ve completed your project in Jupyter Notebooks, push your work to GitHub and paste that link to the right. (If you need help doing so, review the resources [here](https://docs.google.com/spreadsheets/d/1CNGDhjcQZDRx2sWByd2v-mgUOjy13Cd_hQYVXPuzEDE/edit#gid=0).)
-_Reminder: Make sure to also add and commit a pdf of your non-technical presentation to the repository with a file name of presentation.pdf._
-2. **Blog Post:** Include a link to your blog post.
-3. **Record Walkthrough:** Include a link to your video walkthrough.
+2. **Keynote/PowerPoint/Google Slides presentation:** be sure to commit a pdf of your non-technical presentation to the repository with a file name of `presentation.pdf`.
 
-Hit "I'm done" to wrap it up. You will receive an email in order to schedule your review with your instructor.
